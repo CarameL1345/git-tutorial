@@ -1,2 +1,2 @@
 console.log('index.js');
-console.log('versionARMET');
+console.log('versionBASCINET');
